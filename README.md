@@ -4,5 +4,5 @@ First before the tor is working, the ciadpi is employed and the proxychains.conf
 Dip Note: Custom Torrc, Custom Proxychains.conf. First, your confs don't change. Temporary is written on. No problemity :)
 
 how use?
-chmod +x shcizosurf.sh
+chmod +x schizosurf.sh
 sudo or doas ./schizosurf.sh start/stop/status
